@@ -1,0 +1,50 @@
+PODS:
+  - AFNetworking (2.3.1):
+    - AFNetworking/NSURLConnection (= 2.3.1)
+    - AFNetworking/NSURLSession (= 2.3.1)
+    - AFNetworking/Reachability (= 2.3.1)
+    - AFNetworking/Security (= 2.3.1)
+    - AFNetworking/Serialization (= 2.3.1)
+    - AFNetworking/UIKit (= 2.3.1)
+  - AFNetworking/NSURLConnection (2.3.1):
+    - AFNetworking/Reachability
+    - AFNetworking/Security
+    - AFNetworking/Serialization
+  - AFNetworking/NSURLSession (2.3.1):
+    - AFNetworking/Reachability
+    - AFNetworking/Security
+    - AFNetworking/Serialization
+  - AFNetworking/Reachability (2.3.1)
+  - AFNetworking/Security (2.3.1)
+  - AFNetworking/Serialization (2.3.1)
+  - AFNetworking/UIKit (2.3.1):
+    - AFNetworking/NSURLConnection
+    - AFNetworking/NSURLSession
+  - AVOSCloud (3.0.2)
+  - JSONKit (1.5pre)
+  - NSData+Base64 (1.0.0)
+  - RDVTabBarController (1.1.9)
+  - SDWebImage (3.7.2):
+    - SDWebImage/Core (= 3.7.2)
+  - SDWebImage/Core (3.7.2)
+  - UMengAnalytics (3.4.6)
+
+DEPENDENCIES:
+  - AFNetworking (~> 2.3.1)
+  - AVOSCloud
+  - JSONKit (~> 1.5pre)
+  - NSData+Base64 (~> 1.0.0)
+  - RDVTabBarController
+  - SDWebImage (~> 3.7.1)
+  - UMengAnalytics
+
+SPEC CHECKSUMS:
+  AFNetworking: 05b9f6e3aa5ac45bc383b4bb108ef338080a26c7
+  AVOSCloud: eeacd471d18b3e24c3cb0d089110453261084489
+  JSONKit: bae313ce6a6c444f40489a6c0b023f399888871f
+  NSData+Base64: 4e84902c4db907a15673474677e57763ef3903e4
+  RDVTabBarController: 67794f7a7a37f8e32f046f85ac67d06ab92d624a
+  SDWebImage: 71b7cdc1d1721d6a82ed62889030225f2c249e29
+  UMengAnalytics: 24c06f0ea07295d2f1c093f0fe12d196fd801ea4
+
+COCOAPODS: 0.37.2
