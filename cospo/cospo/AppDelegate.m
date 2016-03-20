@@ -39,7 +39,7 @@
     //UIImage *unfinishedImage = [UIImage imageNamed:@"tabbar_unselected"];//未选中
     
     
-    NSArray *tabTitleArray=@[@"俱乐部",@"活动",@"coolGirl",@"我"];
+    NSArray *tabTitleArray=@[@"俱乐部",@"活动",@"coolGirl",@"个人中心"];
     NSInteger index = 0;
     for (RDVTabBarItem *item in [[rdtabBarController tabBar] items])
     {
